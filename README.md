@@ -5,7 +5,7 @@
 This script combines multiple `.txt` files into a single Microsoft Word document. It formats each file with a title that includes an appendix letter, the site name extracted from the hostname, and the hostname itself. The script automatically handles the title formatting and ensures that each file's content is properly separated.
 
 ## Features
-
+#### see requirements in ** docs/junction scipt instructions.docx **
 - Combines multiple `.txt` files into a single `.docx` file.
 - Titles each section with an appendix letter, site name, and hostname.
 - Formats titles and content with specified font styles and sizes.
@@ -19,7 +19,7 @@ This script combines multiple `.txt` files into a single Microsoft Word document
 
 ## Installation
 
-1. Ensure you have latest versiPython 3.x installed.
+1. Ensure you have Python 3.x installed.
 2. Install the required library with pip:
 
     ```sh
